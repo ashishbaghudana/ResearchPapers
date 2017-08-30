@@ -1,5 +1,11 @@
 # A Parsimonious Language Model of Social Media Credibility Across Disparate Events
 
+## Questions
+
+* Fundamental: What drove the authors to engineer features by themselves, for instance, subjectivity or modality? Would use of NLP-based techniques, such as dependency parsing, or analyzing sentence structure help in adding features and hopefully accuracy to the model?
+* Classification: The method for classification is logistic regression. Would other algorithms give higher accuracy?
+* Features: Some of the features seem counter-intuitive (see below for an explanation). What was the philosophy while choosing these as the features and did their expectations about the features correspond to the results?
+
 ## Observations
 
 ### Construction of CREDBANK
